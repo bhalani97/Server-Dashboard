@@ -13,11 +13,6 @@ export const CheckBox = React.forwardRef(
     },
     ref
   ) => {
-    const [value, setValue] = React.useState(checked);
-
-    const handleChange = (event) => {
-      setValue(event.target.checked);
-    };
     return (
       <>
         <div className={className}>
@@ -26,9 +21,6 @@ export const CheckBox = React.forwardRef(
             ref={ref}
             type="checkbox"
             name={name}
-            value={name}
-            checked={value}
-            onChange={handleChange}
             {...restProps}
           />
           {label}

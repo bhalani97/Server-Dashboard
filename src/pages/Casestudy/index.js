@@ -55,7 +55,7 @@ const CasestudyPage = () => {
               compType="Column"
             >
               <Image
-                src="img_rectangle2.png"
+                src={"images/img_rectangle2.png"}
                 className="lg:h-[315px] xl:h-[361px] 2xl:h-[406px] h-[450px] 3xl:h-[487px] object-cover w-[100%]"
                 compId="82:68"
                 comWidth={699}
@@ -66,7 +66,7 @@ const CasestudyPage = () => {
                 alt="Rectangle2"
               />
               <Image
-                src="img_rectangle21.png"
+                src={"images/img_rectangle21.png"}
                 className="lg:h-[315px] xl:h-[361px] 2xl:h-[406px] h-[450px] 3xl:h-[487px] object-cover w-[100%]"
                 compId="82:70"
                 comWidth={699}
@@ -106,7 +106,7 @@ const CasestudyPage = () => {
                 compType="Row"
               >
                 <Image
-                  src="img_group21.svg"
+                  src={"images/img_group21.svg"}
                   className="lg:h-[33px] xl:h-[38px] 2xl:h-[43px] h-[47px] 3xl:h-[51px] lg:mb-[118px] xl:mb-[135px] 2xl:mb-[152px] mb-[169px] 3xl:mb-[182px] 2xl:mt-[1px] xl:mt-[1px] lg:mt-[1px] mt-[2px] object-contain w-[17%]"
                   compId="82:8"
                   comWidth={169}
@@ -117,7 +117,7 @@ const CasestudyPage = () => {
                   alt="Group21"
                 />
                 <Text
-                  className="font-bold xl:ml-[105px] 2xl:ml-[118px] ml-[132px] 3xl:ml-[142px] lg:ml-[92px] text-bluegray_800 lg:text-fs100 xl:text-fs115 2xl:text-fs129 text-fs144 3xl:text-fs155 text-left"
+                  className="font-bold xl:ml-[105px] 2xl:ml-[118px] ml-[132px] 3xl:ml-[142px] lg:ml-[92px] text-bluegray_800 lg:text-fs100 xl:text-fs115 2xl:text-fs129 text-fs144 3xl:text-fs155 text-left w-[70%]"
                   compId="82:25"
                   comWidth={709}
                   comHeight={218}
@@ -206,7 +206,7 @@ const CasestudyPage = () => {
               compType="Row"
             >
               <Image
-                src="img_group22.svg"
+                src={"images/img_group22.svg"}
                 className="lg:h-[17px] xl:h-[19px] 2xl:h-[21px] h-[23px] 3xl:h-[25px] lg:mb-[13px] xl:mb-[15px] 2xl:mb-[17px] mb-[19.06px] 3xl:mb-[20px] lg:ml-[52px] xl:ml-[60px] 2xl:ml-[67px] ml-[75px] 3xl:ml-[81px] xl:mt-[10px] 2xl:mt-[11px] mt-[12.94px] 3xl:mt-[13px] lg:mt-[9px] object-contain w-[12%]"
                 compId="82:30"
                 comWidth={112}
@@ -217,7 +217,7 @@ const CasestudyPage = () => {
                 alt="Group22"
               />
               <Text
-                className="font-bold lg:ml-[14px] xl:ml-[16px] 2xl:ml-[18px] ml-[20px] 3xl:ml-[21px] lg:text-fs25 xl:text-fs28 2xl:text-fs32 text-fs36 3xl:text-fs38 text-gray_102 text-left"
+                className="font-bold lg:ml-[14px] xl:ml-[16px] 2xl:ml-[18px] ml-[20px] 3xl:ml-[21px] lg:text-fs25 xl:text-fs28 2xl:text-fs32 text-fs36 3xl:text-fs38 text-gray_102 text-left w-[19%]"
                 compId="82:47"
                 comWidth={183}
                 comHeight={55}
@@ -227,7 +227,7 @@ const CasestudyPage = () => {
               >{`Casestudy`}</Text>
             </Row>
             <Text
-              className="font-bold lg:mt-[4px] xl:mt-[5px] 2xl:mt-[6px] mt-[7px] mx-[auto] 3xl:text-fs103 lg:text-fs67 xl:text-fs76 2xl:text-fs86 text-fs96 text-gray_102 text-left"
+              className="font-bold lg:mt-[4px] xl:mt-[5px] 2xl:mt-[6px] mt-[7px] mx-[auto] 3xl:text-fs103 lg:text-fs67 xl:text-fs76 2xl:text-fs86 text-fs96 text-gray_102 text-left w-[21%]"
               compId="82:48"
               comWidth={208}
               comHeight={145}
@@ -245,7 +245,7 @@ const CasestudyPage = () => {
               compType="Row"
             >
               <Text
-                className="font-bold lg:text-fs16 xl:text-fs19 2xl:text-fs21 text-fs24 3xl:text-fs25 text-left text-teal_A400 tracking-ls1"
+                className="font-bold lg:text-fs16 xl:text-fs19 2xl:text-fs21 text-fs24 3xl:text-fs25 text-left text-teal_A400 tracking-ls1 w-[21%]"
                 compId="82:73"
                 comWidth={204}
                 comHeight={40}
@@ -254,7 +254,7 @@ const CasestudyPage = () => {
                 compType="Text"
               >{`SALE SOLUTION`}</Text>
               <Text
-                className="font-bold lg:mr-[130px] xl:mr-[149px] 2xl:mr-[168px] mr-[187px] 3xl:mr-[202px] lg:text-fs16 xl:text-fs19 2xl:text-fs21 text-fs24 3xl:text-fs25 text-left text-teal_A400 tracking-ls1"
+                className="font-bold lg:mr-[130px] xl:mr-[149px] 2xl:mr-[168px] mr-[187px] 3xl:mr-[202px] lg:text-fs16 xl:text-fs19 2xl:text-fs21 text-fs24 3xl:text-fs25 text-left text-teal_A400 tracking-ls1 w-[19%]"
                 compId="82:74"
                 comWidth={188}
                 comHeight={40}
@@ -354,7 +354,7 @@ const CasestudyPage = () => {
                 compType="Row"
               >
                 <Image
-                  src="img_group23.svg"
+                  src={"images/img_group23.svg"}
                   className="lg:h-[17px] xl:h-[19px] 2xl:h-[21px] h-[23px] 3xl:h-[25px] lg:mb-[114px] xl:mb-[130px] 2xl:mb-[146px] mb-[163.06px] 3xl:mb-[176px] xl:mt-[10px] 2xl:mt-[11px] mt-[12.94px] 3xl:mt-[13px] lg:mt-[9px] object-contain w-[17%]"
                   compId="82:49"
                   comWidth={112}
@@ -365,7 +365,7 @@ const CasestudyPage = () => {
                   alt="Group23"
                 />
                 <Text
-                  className="font-bold lg:mb-[101px] xl:mb-[115px] 2xl:mb-[130px] mb-[144.5px] 3xl:mb-[156px] lg:ml-[14px] xl:ml-[16px] 2xl:ml-[18px] ml-[20px] 3xl:ml-[21px] text-bluegray_800 lg:text-fs25 xl:text-fs28 2xl:text-fs32 text-fs36 3xl:text-fs38 text-left"
+                  className="font-bold lg:mb-[101px] xl:mb-[115px] 2xl:mb-[130px] mb-[144.5px] 3xl:mb-[156px] lg:ml-[14px] xl:ml-[16px] 2xl:ml-[18px] ml-[20px] 3xl:ml-[21px] text-bluegray_800 lg:text-fs25 xl:text-fs28 2xl:text-fs32 text-fs36 3xl:text-fs38 text-left w-[28%]"
                   compId="82:66"
                   comWidth={183}
                   comHeight={54.5}
@@ -374,7 +374,7 @@ const CasestudyPage = () => {
                   compType="Text"
                 >{`Casestudy`}</Text>
                 <Text
-                  className="font-bold lg:mt-[38px] xl:mt-[43px] 2xl:mt-[49px] mt-[54.5px] 3xl:mt-[58px] text-bluegray_800 3xl:text-fs103 lg:text-fs67 xl:text-fs76 2xl:text-fs86 text-fs96 text-left"
+                  className="font-bold lg:mt-[38px] xl:mt-[43px] 2xl:mt-[49px] mt-[54.5px] 3xl:mt-[58px] text-bluegray_800 3xl:text-fs103 lg:text-fs67 xl:text-fs76 2xl:text-fs86 text-fs96 text-left w-[40%]"
                   compId="82:67"
                   comWidth={261}
                   comHeight={144.5}
@@ -385,7 +385,7 @@ const CasestudyPage = () => {
               </Row>
             </Column>
             <Text
-              className="font-black lowercase mr-[10px] lg:mr-[7px] xl:mr-[8px] 2xl:mr-[9px] lg:mt-[53px] xl:mt-[61px] 2xl:mt-[69px] mt-[77px] 3xl:mt-[83px] text-bluegray_800 lg:text-fs33 xl:text-fs38 2xl:text-fs43 text-fs48 3xl:text-fs51 text-left"
+              className="font-black lowercase mr-[10px] lg:mr-[7px] xl:mr-[8px] 2xl:mr-[9px] lg:mt-[53px] xl:mt-[61px] 2xl:mt-[69px] mt-[77px] 3xl:mt-[83px] text-bluegray_800 lg:text-fs33 xl:text-fs38 2xl:text-fs43 text-fs48 3xl:text-fs51 text-left w-[58%]"
               compId="93:9"
               comWidth={376}
               comHeight={75}
@@ -394,7 +394,7 @@ const CasestudyPage = () => {
               compType="Text"
             >{`MODERN/CLASSIC`}</Text>
             <Text
-              className="font-black lowercase mr-[10px] lg:mr-[7px] xl:mr-[8px] 2xl:mr-[9px] lg:mt-[10px] xl:mt-[12px] 2xl:mt-[13px] mt-[15px] 3xl:mt-[16px] text-bluegray_800 lg:text-fs33 xl:text-fs38 2xl:text-fs43 text-fs48 3xl:text-fs51 text-left"
+              className="font-black lowercase mr-[10px] lg:mr-[7px] xl:mr-[8px] 2xl:mr-[9px] lg:mt-[10px] xl:mt-[12px] 2xl:mt-[13px] mt-[15px] 3xl:mt-[16px] text-bluegray_800 lg:text-fs33 xl:text-fs38 2xl:text-fs43 text-fs48 3xl:text-fs51 text-left w-[59%]"
               compId="93:10"
               comWidth={384}
               comHeight={75}
@@ -403,7 +403,7 @@ const CasestudyPage = () => {
               compType="Text"
             >{`SIMPLE/GENIUNE`}</Text>
             <Text
-              className="font-black lowercase mr-[10px] lg:mr-[7px] xl:mr-[8px] 2xl:mr-[9px] lg:mt-[10px] xl:mt-[12px] 2xl:mt-[13px] mt-[15px] 3xl:mt-[16px] text-bluegray_800 lg:text-fs33 xl:text-fs38 2xl:text-fs43 text-fs48 3xl:text-fs51 text-left"
+              className="font-black lowercase mr-[10px] lg:mr-[7px] xl:mr-[8px] 2xl:mr-[9px] lg:mt-[10px] xl:mt-[12px] 2xl:mt-[13px] mt-[15px] 3xl:mt-[16px] text-bluegray_800 lg:text-fs33 xl:text-fs38 2xl:text-fs43 text-fs48 3xl:text-fs51 text-left w-[27%]"
               compId="93:11"
               comWidth={174}
               comHeight={75}
@@ -431,7 +431,7 @@ const CasestudyPage = () => {
               compType="Row"
             >
               <Image
-                src="img_rectangle3.png"
+                src={"images/img_rectangle3.png"}
                 className="lg:h-[217px] xl:h-[248px] 2xl:h-[279px] h-[309px] 3xl:h-[334px] 3xl:mt-[106px] lg:mt-[69px] xl:mt-[79px] 2xl:mt-[89px] mt-[99px] object-contain w-[100%]"
                 compId="93:2"
                 comWidth={240}
@@ -442,7 +442,7 @@ const CasestudyPage = () => {
                 alt="Rectangle3"
               />
               <Image
-                src="img_rectangle32_1.png"
+                src={"images/img_rectangle32_1.png"}
                 className="lg:h-[217px] xl:h-[248px] 2xl:h-[279px] h-[309px] 3xl:h-[334px] 3xl:mb-[106px] lg:mb-[69px] xl:mb-[79px] 2xl:mb-[89px] mb-[99px] object-contain w-[100%]"
                 compId="93:4"
                 comWidth={240}
@@ -454,7 +454,7 @@ const CasestudyPage = () => {
               />
             </Row>
             <Image
-              src="img_rectangle31_1.png"
+              src={"images/img_rectangle31_1.png"}
               className="absolute lg:h-[217px] xl:h-[248px] 2xl:h-[279px] h-[309px] 3xl:h-[334px] left-[22%] object-contain top-[25%] w-[44%]"
               compId="93:3"
               comWidth={240}
@@ -465,7 +465,7 @@ const CasestudyPage = () => {
               alt="Rectangle31"
             />
             <Image
-              src="img_rectangle34.png"
+              src={"images/img_rectangle34.png"}
               className="absolute bottom-[0] lg:h-[217px] xl:h-[248px] 2xl:h-[279px] h-[309px] 3xl:h-[334px] left-[4%] object-contain w-[44%]"
               compId="93:6"
               comWidth={240}
@@ -476,7 +476,7 @@ const CasestudyPage = () => {
               alt="Rectangle34"
             />
             <Image
-              src="img_rectangle35.png"
+              src={"images/img_rectangle35.png"}
               className="absolute bottom-[10%] lg:h-[217px] xl:h-[248px] 2xl:h-[279px] h-[309px] 3xl:h-[334px] object-contain right-[0] w-[44%]"
               compId="93:7"
               comWidth={240}

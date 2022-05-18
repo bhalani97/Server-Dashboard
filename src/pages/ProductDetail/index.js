@@ -32,7 +32,7 @@ const ProductDetailPage = () => {
           compType="Column"
         >
           <Image
-            src="img_navcontainer.svg"
+            src={"images/img_navcontainer.svg"}
             className="h-[100px] 2xl:h-[101px] 3xl:h-[121px] lg:h-[78px] xl:h-[89px] object-cover w-[100%]"
             compId="37:16"
             comWidth={1440}
@@ -70,7 +70,7 @@ const ProductDetailPage = () => {
               compType="Column"
             >
               <Text
-                className="font-bold font-merriweather mr-[10px] 3xl:mr-[12px] lg:mr-[7px] xl:mr-[8px] lg:text-fs32 xl:text-fs37 text-fs42 3xl:text-fs50 text-gray_900 text-left"
+                className="font-bold font-merriweather mr-[10px] 3xl:mr-[12px] lg:mr-[7px] xl:mr-[8px] lg:text-fs32 xl:text-fs37 text-fs42 3xl:text-fs50 text-gray_900 text-left w-[81%]"
                 compId="32:474"
                 comWidth={411}
                 comHeight={64}
@@ -79,7 +79,7 @@ const ProductDetailPage = () => {
                 compType="Text"
               >{`Sona Armless Chair`}</Text>
               <Text
-                className="font-jacquesfrancois font-normal mr-[10px] 3xl:mr-[12px] lg:mr-[7px] xl:mr-[8px] xl:mt-[2px] lg:mt-[2px] mt-[3px] not-italic lg:text-fs24 xl:text-fs28 text-fs32 3xl:text-fs38 text-gray_900 text-right"
+                className="font-jacquesfrancois font-normal mr-[10px] 3xl:mr-[12px] lg:mr-[7px] xl:mr-[8px] xl:mt-[2px] lg:mt-[2px] mt-[3px] not-italic lg:text-fs24 xl:text-fs28 text-fs32 3xl:text-fs38 text-gray_900 text-right w-[21%]"
                 compId="32:473"
                 comWidth={109}
                 comHeight={51}
@@ -88,7 +88,7 @@ const ProductDetailPage = () => {
                 compType="Text"
               >{`$400.00`}</Text>
               <Text
-                className="font-bold font-interui mr-[10px] 3xl:mr-[12px] lg:mr-[7px] xl:mr-[8px] xl:mt-[2px] lg:mt-[2px] mt-[3px] lg:text-fs10 xl:text-fs12 text-fs14 3xl:text-fs16 text-gray_900 text-left tracking-ls1"
+                className="font-bold font-interui mr-[10px] 3xl:mr-[12px] lg:mr-[7px] xl:mr-[8px] xl:mt-[2px] lg:mt-[2px] mt-[3px] lg:text-fs10 xl:text-fs12 text-fs14 3xl:text-fs16 text-gray_900 text-left tracking-ls1 w-[27%]"
                 compId="41:1"
                 comWidth={138}
                 comHeight={21}
@@ -143,7 +143,7 @@ const ProductDetailPage = () => {
                     compType="Column"
                   >
                     <Text
-                      className="font-bold mr-[10px] 3xl:mr-[12px] lg:mr-[7px] xl:mr-[8px] lg:text-fs15 xl:text-fs17 text-fs20 3xl:text-fs24 text-gray_900 text-left tracking-ls1"
+                      className="font-bold mr-[10px] 3xl:mr-[12px] lg:mr-[7px] xl:mr-[8px] lg:text-fs15 xl:text-fs17 text-fs20 3xl:text-fs24 text-gray_900 text-left tracking-ls1 w-[77%]"
                       compId="32:472"
                       comWidth={72}
                       comHeight={29}
@@ -161,7 +161,7 @@ const ProductDetailPage = () => {
                       compType="Column"
                     >
                       <Image
-                        src="img_color.svg"
+                        src={"images/img_color.svg"}
                         className="lg:h-[21px] xl:h-[24px] h-[26px] 2xl:h-[27px] 3xl:h-[32px] object-cover w-[100%]"
                         compId="44:13"
                         comWidth={93}
@@ -183,7 +183,7 @@ const ProductDetailPage = () => {
                     compType="Column"
                   >
                     <Text
-                      className="font-bold mr-[10px] 3xl:mr-[12px] lg:mr-[7px] xl:mr-[8px] lg:text-fs15 xl:text-fs17 text-fs20 3xl:text-fs24 text-gray_900 text-left tracking-ls1"
+                      className="font-bold mr-[10px] 3xl:mr-[12px] lg:mr-[7px] xl:mr-[8px] lg:text-fs15 xl:text-fs17 text-fs20 3xl:text-fs24 text-gray_900 text-left tracking-ls1 w-[48%]"
                       compId="40:3"
                       comWidth={47}
                       comHeight={29}
@@ -219,7 +219,7 @@ const ProductDetailPage = () => {
                           compType="Stack"
                         >
                           <Image
-                            src="img_container.svg"
+                            src={"images/img_container.svg"}
                             className="absolute lg:h-[20px] xl:h-[23px] h-[25px] 2xl:h-[26px] 3xl:h-[31px] inset-[0] object-cover rounded-radius2 w-[100%]"
                             compId="41:3"
                             comWidth={24}
@@ -249,7 +249,7 @@ const ProductDetailPage = () => {
                           compType="Stack"
                         >
                           <Image
-                            src="img_container_1.svg"
+                            src={"images/img_container_1.svg"}
                             className="absolute lg:h-[20px] xl:h-[23px] h-[25px] 2xl:h-[26px] 3xl:h-[31px] inset-[0] object-cover rounded-radius2 w-[100%]"
                             compId="41:4"
                             comWidth={24}
@@ -260,7 +260,7 @@ const ProductDetailPage = () => {
                             alt="container"
                           />
                           <Text
-                            className="absolute font-medium h-[max-content] inset-y-[0] my-[auto] right-[33%] text-fs10 3xl:text-fs12 lg:text-fs7 xl:text-fs8 text-gray_900 text-left tracking-ls1"
+                            className="absolute font-medium h-[max-content] inset-y-[0] my-[auto] right-[33%] text-fs10 3xl:text-fs12 lg:text-fs7 xl:text-fs8 text-gray_900 text-left tracking-ls1 w-[29%]"
                             compId="41:8"
                             comWidth={7}
                             comHeight={15}
@@ -279,7 +279,7 @@ const ProductDetailPage = () => {
                           compType="Stack"
                         >
                           <Image
-                            src="img_container.svg"
+                            src={"images/img_container.svg"}
                             className="absolute lg:h-[20px] xl:h-[23px] h-[25px] 2xl:h-[26px] 3xl:h-[31px] inset-[0] object-cover rounded-radius2 w-[100%]"
                             compId="41:5"
                             comWidth={24}
@@ -313,7 +313,7 @@ const ProductDetailPage = () => {
                   compType="Row"
                 >
                   <Text
-                    className="font-bold xl:mb-[19px] mb-[22px] 3xl:mb-[26px] xl:mt-[20px] mt-[23px] 3xl:mt-[27px] lg:my-[17px] lg:text-fs18 xl:text-fs21 text-fs24 3xl:text-fs28 text-gray_900 text-left"
+                    className="font-bold xl:mb-[19px] mb-[22px] 3xl:mb-[26px] xl:mt-[20px] mt-[23px] 3xl:mt-[27px] lg:my-[17px] lg:text-fs18 xl:text-fs21 text-fs24 3xl:text-fs28 text-gray_900 text-left w-[10%]"
                     compId="32:467"
                     comWidth={51}
                     comHeight={35}
@@ -340,7 +340,7 @@ const ProductDetailPage = () => {
                     compType="Stack"
                   >
                     <Image
-                      src="img_btncontainer.svg"
+                      src={"images/img_btncontainer.svg"}
                       className="absolute lg:h-[63px] xl:h-[72px] h-[80px] 2xl:h-[81px] 3xl:h-[97px] inset-[0] object-cover rounded-radius10 w-[100%]"
                       compId="32:462"
                       comWidth={319}
@@ -360,7 +360,7 @@ const ProductDetailPage = () => {
                       compType="Row"
                     >
                       <Image
-                        src="img_vector.svg"
+                        src={"images/img_vector.svg"}
                         className="lg:h-[21px] xl:h-[24px] h-[26px] 2xl:h-[27px] 3xl:h-[32px] lg:my-[4px] xl:my-[5px] my-[6px] 3xl:my-[7px] object-contain lg:w-[20px] xl:w-[23px] w-[26px] 3xl:w-[31px]"
                         compId="41:53"
                         comWidth={26}
@@ -371,7 +371,7 @@ const ProductDetailPage = () => {
                         alt="Vector"
                       />
                       <Text
-                        className="font-bold lg:ml-[6px] xl:ml-[7px] ml-[8px] 3xl:ml-[9px] lg:text-fs20 xl:text-fs23 text-fs26 3xl:text-fs31 text-gray_900 text-left xl:tracking-ls1 lg:tracking-ls1 3xl:tracking-ls2 2xl:tracking-ls2 tracking-ls208"
+                        className="font-bold lg:ml-[6px] xl:ml-[7px] ml-[8px] 3xl:ml-[9px] lg:text-fs20 xl:text-fs23 text-fs26 3xl:text-fs31 text-gray_900 text-left xl:tracking-ls1 lg:tracking-ls1 3xl:tracking-ls2 2xl:tracking-ls2 tracking-ls208 w-[82%]"
                         compId="37:15"
                         comWidth={157}
                         comHeight={38}
@@ -393,7 +393,7 @@ const ProductDetailPage = () => {
                 compType="Row"
               >
                 <Text
-                  className="font-bold mt-[1px] lg:text-fs15 xl:text-fs17 text-fs20 3xl:text-fs24 text-gray_900 text-left tracking-ls1"
+                  className="font-bold mt-[1px] lg:text-fs15 xl:text-fs17 text-fs20 3xl:text-fs24 text-gray_900 text-left tracking-ls1 w-[35%]"
                   compId="41:15"
                   comWidth={71}
                   comHeight={29}
@@ -402,7 +402,7 @@ const ProductDetailPage = () => {
                   compType="Text"
                 >{`SHARE`}</Text>
                 <Image
-                  src="img_social.svg"
+                  src={"images/img_social.svg"}
                   className="lg:h-[24px] xl:h-[27px] h-[30px] 2xl:h-[31px] 3xl:h-[37px] lg:ml-[18px] xl:ml-[21px] ml-[24px] 3xl:ml-[28px] object-contain w-[54%]"
                   compId="41:46"
                   comWidth={110}
@@ -416,7 +416,7 @@ const ProductDetailPage = () => {
             </Column>
           </Row>
           <Text
-            className="font-bold 3xl:mt-[112px] lg:mt-[73px] xl:mt-[83px] mt-[94px] mx-[auto] lg:text-fs37 xl:text-fs42 text-fs48 3xl:text-fs57 text-gray_900 text-left"
+            className="font-bold 3xl:mt-[112px] lg:mt-[73px] xl:mt-[83px] mt-[94px] mx-[auto] lg:text-fs37 xl:text-fs42 text-fs48 3xl:text-fs57 text-gray_900 text-left w-[27%]"
             compId="32:460"
             comWidth={382}
             comHeight={73}
@@ -443,7 +443,7 @@ const ProductDetailPage = () => {
               compType="Stack"
             >
               <Image
-                src="img_rectangle.png"
+                src={"images/img_rectangle.png"}
                 className="absolute lg:h-[350px] xl:h-[401px] h-[450px] 2xl:h-[451px] 3xl:h-[541px] inset-[0] object-cover rounded-radius10 w-[100%]"
                 compId="32:447"
                 comWidth={320}
@@ -463,7 +463,7 @@ const ProductDetailPage = () => {
                 compType="Row"
               >
                 <Text
-                  className="font-normal lg:my-[12px] xl:my-[14px] my-[16px] 3xl:my-[19px] not-italic lg:text-fs18 xl:text-fs21 text-fs24 3xl:text-fs28 text-left text-white_A700"
+                  className="font-normal lg:my-[12px] xl:my-[14px] my-[16px] 3xl:my-[19px] not-italic lg:text-fs18 xl:text-fs21 text-fs24 3xl:text-fs28 text-left text-white_A700 w-[26%]"
                   compId="32:455"
                   comWidth={82}
                   comHeight={38}
@@ -472,7 +472,7 @@ const ProductDetailPage = () => {
                   compType="Text"
                 >{`$300.00`}</Text>
                 <Image
-                  src="img_group3_1.svg"
+                  src={"images/img_group3_1.svg"}
                   className="lg:h-[33px] xl:h-[38px] h-[42px] 2xl:h-[43px] 3xl:h-[51px] lg:ml-[35px] xl:ml-[40px] ml-[45px] 3xl:ml-[54px] lg:mr-[24px] xl:mr-[28px] mr-[32px] 3xl:mr-[38px] lg:my-[10px] xl:my-[12px] my-[14px] 3xl:my-[16px] object-contain lg:w-[32px] xl:w-[37px] w-[42px] 3xl:w-[50px]"
                   compId="37:13"
                   comWidth={42}
@@ -494,7 +494,7 @@ const ProductDetailPage = () => {
               compType="Stack"
             >
               <Image
-                src="img_rectangle_1.png"
+                src={"images/img_rectangle_1.png"}
                 className="absolute lg:h-[350px] xl:h-[401px] h-[450px] 2xl:h-[451px] 3xl:h-[541px] inset-[0] object-cover rounded-radius10 w-[100%]"
                 compId="32:454"
                 comWidth={320}
@@ -505,7 +505,7 @@ const ProductDetailPage = () => {
                 alt="Rectangle"
               />
               <Image
-                src="img_group.svg"
+                src={"images/img_group.svg"}
                 className="absolute bottom-[4%] lg:h-[10px] xl:h-[11px] h-[12px] 2xl:h-[13px] 3xl:h-[15px] inset-x-[0] mx-[auto] object-contain w-[11%]"
                 compId="32:456"
                 comWidth={36}
@@ -526,7 +526,7 @@ const ProductDetailPage = () => {
               compType="Stack"
             >
               <Image
-                src="img_rectangle_2.png"
+                src={"images/img_rectangle_2.png"}
                 className="absolute lg:h-[346px] xl:h-[395px] h-[444px] 2xl:h-[445px] 3xl:h-[534px] inset-[0] object-cover rounded-radius10 w-[100%]"
                 compId="32:431"
                 comWidth={320}
@@ -563,7 +563,7 @@ const ProductDetailPage = () => {
               compType="Stack"
             >
               <Image
-                src="img_rectangle_3.png"
+                src={"images/img_rectangle_3.png"}
                 className="absolute lg:h-[346px] xl:h-[395px] h-[444px] 2xl:h-[445px] 3xl:h-[534px] inset-[0] object-cover rounded-radius10 w-[100%]"
                 compId="32:439"
                 comWidth={182}
@@ -574,7 +574,7 @@ const ProductDetailPage = () => {
                 alt="Rectangle"
               />
               <Image
-                src="img_group3_2.svg"
+                src={"images/img_group3_2.svg"}
                 className="absolute bottom-[2%] lg:h-[10px] xl:h-[11px] h-[12px] 2xl:h-[13px] 3xl:h-[15px] object-contain right-[0] w-[29%]"
                 compId="32:441"
                 comWidth={53}
@@ -632,7 +632,7 @@ const ProductDetailPage = () => {
                     compType="Row"
                   >
                     <Text
-                      className="font-bold lg:my-[5px] xl:my-[6px] my-[7px] 3xl:my-[8px] lg:text-fs14 xl:text-fs16 text-fs18 3xl:text-fs21 text-left text-white_A700 tracking-ls1"
+                      className="font-bold lg:my-[5px] xl:my-[6px] my-[7px] 3xl:my-[8px] lg:text-fs14 xl:text-fs16 text-fs18 3xl:text-fs21 text-left text-white_A700 tracking-ls1 w-[54%]"
                       compId="32:425"
                       comWidth={318}
                       comHeight={26}
@@ -642,7 +642,7 @@ const ProductDetailPage = () => {
                     >{`SUBSCRIBE TO OUR NEWSLETTER`}</Text>
                     <div className="w-[42%] input-wrap">
                       <Image
-                        src="img_arrow.svg"
+                        src={"images/img_arrow.svg"}
                         className="absolute right-[15px] lg:right-[11px] xl:right-[13px] 3xl:right-[18px] my-[auto] inset-y-[0]"
                         compId="32:429"
                         comWidth={10}
@@ -673,7 +673,7 @@ const ProductDetailPage = () => {
                     compType="Row"
                   >
                     <Text
-                      className="font-bold xl:my-[1px] lg:my-[1px] my-[2px] lg:text-fs14 xl:text-fs16 text-fs18 3xl:text-fs21 text-left text-white_A700 tracking-ls1"
+                      className="font-bold xl:my-[1px] lg:my-[1px] my-[2px] lg:text-fs14 xl:text-fs16 text-fs18 3xl:text-fs21 text-left text-white_A700 tracking-ls1 w-[42%]"
                       compId="32:404"
                       comWidth={110}
                       comHeight={26}
@@ -682,7 +682,7 @@ const ProductDetailPage = () => {
                       compType="Text"
                     >{`JOIN US ON`}</Text>
                     <Image
-                      src="img_facebook.svg"
+                      src={"images/img_facebook.svg"}
                       className="lg:h-[24px] xl:h-[27px] h-[30px] 2xl:h-[31px] 3xl:h-[37px] object-contain lg:w-[23px] xl:w-[26px] w-[30px] 3xl:w-[36px]"
                       compId="32:417"
                       comWidth={30}
@@ -693,7 +693,7 @@ const ProductDetailPage = () => {
                       alt="Facebook"
                     />
                     <Image
-                      src="img_twitter.svg"
+                      src={"images/img_twitter.svg"}
                       className="lg:h-[24px] xl:h-[27px] h-[30px] 2xl:h-[31px] 3xl:h-[37px] object-contain lg:w-[23px] xl:w-[26px] w-[30px] 3xl:w-[36px]"
                       compId="32:414"
                       comWidth={30}
@@ -704,7 +704,7 @@ const ProductDetailPage = () => {
                       alt="Twitter"
                     />
                     <Image
-                      src="img_instagram.svg"
+                      src={"images/img_instagram.svg"}
                       className="lg:h-[24px] xl:h-[27px] h-[30px] 2xl:h-[31px] 3xl:h-[37px] object-contain lg:w-[23px] xl:w-[26px] w-[30px] 3xl:w-[36px]"
                       compId="32:405"
                       comWidth={30}
@@ -717,7 +717,7 @@ const ProductDetailPage = () => {
                   </Row>
                 </Row>
                 <Image
-                  src="img_divider.svg"
+                  src={"images/img_divider.svg"}
                   className="absolute xl:h-[106px] h-[119px] 2xl:h-[120px] 3xl:h-[143px] lg:h-[93px] inset-[0] object-cover w-[100%]"
                   compId="32:420"
                   comWidth={1439}
@@ -738,7 +738,7 @@ const ProductDetailPage = () => {
                 compType="Row"
               >
                 <Text
-                  className="font-medium lg:ml-[150px] xl:ml-[172px] ml-[194px] 3xl:ml-[232px] lg:my-[30px] xl:my-[34px] my-[39px] 3xl:my-[46px] lg:text-fs10 xl:text-fs12 text-fs14 3xl:text-fs16 text-left text-white_A700 tracking-ls1"
+                  className="font-medium lg:ml-[150px] xl:ml-[172px] ml-[194px] 3xl:ml-[232px] lg:my-[30px] xl:my-[34px] my-[39px] 3xl:my-[46px] lg:text-fs10 xl:text-fs12 text-fs14 3xl:text-fs16 text-left text-white_A700 tracking-ls1 w-[15%]"
                   compId="32:402"
                   comWidth={213}
                   comHeight={21}
@@ -747,7 +747,7 @@ const ProductDetailPage = () => {
                   compType="Text"
                 >{`TERMS & CONDITION POLICY`}</Text>
                 <Image
-                  src="img_group2.svg"
+                  src={"images/img_group2.svg"}
                   className="2xl:h-[100px] 3xl:h-[119px] lg:h-[77px] xl:h-[89px] h-[99px] lg:ml-[199px] xl:ml-[228px] ml-[257px] 3xl:ml-[308px] object-contain w-[8%]"
                   compId="32:385"
                   comWidth={112}
@@ -758,7 +758,7 @@ const ProductDetailPage = () => {
                   alt="Group2"
                 />
                 <Text
-                  className="font-medium lg:ml-[180px] xl:ml-[206px] ml-[232px] 3xl:ml-[278px] lg:my-[30px] xl:my-[34px] my-[39px] 3xl:my-[46px] lg:text-fs10 xl:text-fs12 text-fs14 3xl:text-fs16 text-left text-white_A700"
+                  className="font-medium lg:ml-[180px] xl:ml-[206px] ml-[232px] 3xl:ml-[278px] lg:my-[30px] xl:my-[34px] my-[39px] 3xl:my-[46px] lg:text-fs10 xl:text-fs12 text-fs14 3xl:text-fs16 text-left text-white_A700 w-[16%]"
                   compId="32:384"
                   comWidth={237}
                   comHeight={21}
